@@ -1,0 +1,15 @@
+main{
+    color:white;
+}
+body{
+    background-color: darkgrey;
+}
+.square{
+    background-color:black;
+    color: darkgrey;
+    height: 100px;
+    width: 1450px;
+    /* margin-top: 20px;
+    margin-left: 20px; */
+    /* padding: 10px; */
+}
